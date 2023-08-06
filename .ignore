@@ -1,0 +1,5 @@
+# Ignore a specific folder
+.vscode/
+
+# Ignore a specific file
+HWiNFO64.exe
